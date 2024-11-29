@@ -16,8 +16,8 @@
 
 ###
 
-<p align="left">Hi! My name is Stepan Dordiai and I'm a self-taught Web Developer with more than 1 year of practical experience in designing and building responsive web pages and applications.
-Constantly seeking for new challenges and opportunities that will expand my skill set.</p>
+<p align="left">Self-taught Web developer with more than 1 year of diverse experience in designing and building responsive web pages and applications.
+Constantly seeking for new challenges and opportunities that will expand my skill set</p>
 
 <h3 align="left">Skills</h3>
 
