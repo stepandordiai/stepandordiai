@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Self-taught Web developer with more than 1 year of diverse experience in designing and building responsive web pages and applications.
+<p align="left">Self-taught Web developer with more than 2 years of diverse experience in designing and building responsive web pages and applications.
 Constantly seeking for new challenges and opportunities that will expand my skill set</p>
 
 <h3 align="left">Skills</h3>
