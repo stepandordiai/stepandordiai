@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=heeeyooo"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=stepandordiai"/>
 </div>
 
 <div align="center">
@@ -12,22 +12,22 @@
 
 ###
 
-<h3 align="left">About me</h3>
+<h3 align="center">About me</h3>
 
 ###
 
-<p align="left">Self-taught Web developer with more than 2 years of diverse experience in designing and building responsive web pages and applications.
+<p align="justify">Self-taught Web developer with more than 2 years of diverse experience in designing and building responsive web pages and applications.
 Constantly seeking for new challenges and opportunities that will expand my skill set</p>
 
-<h3 align="left">Skills</h3>
+<h3 align="center">Skills</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/640px-Sass_Logo_Color.svg.png" height="40" alt="javascript logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/640px-Sass_Logo_Color.svg.png" height="40" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" height="40" alt="react logo"  />
   <img src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" height="40" alt="vite logo"  />
@@ -43,5 +43,5 @@ Constantly seeking for new challenges and opportunities that will expand my skil
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heeeyooo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stepandordiai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
