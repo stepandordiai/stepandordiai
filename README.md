@@ -46,7 +46,7 @@
   
   <h3>Back-end</h3>
   <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" width="40" alt="Node.js"  />
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/express-js-icon.png" width="40" alt="express.js"  />
+  <img src="https://cdn.worldvectorlogo.com/logos/expressjs.svg" width="40" alt="express.js"  />
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" width="40" alt="MongoDB"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="40" alt="TypeScript"  /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"  />
