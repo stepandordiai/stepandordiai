@@ -45,7 +45,7 @@
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png" width="40" alt="Bootstrap"  />
   
   <h3>Back-end</h3>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="40" alt="Node.js"  />
+  <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" width="40" alt="Node.js"  />
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/express-js-icon.png" width="40" alt="express.js"  />
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" width="40" alt="MongoDB"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="40" alt="TypeScript"  /> 
@@ -56,8 +56,8 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/800px-Figma-logo.svg.png" width="40" alt="Figma"  />
 
   <h3>Other</h3>
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" width="40" alt="vite logo"  />
-  <img src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" width="40" alt="vite logo"  />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" width="40" alt="GitHub"  />
+  <img src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" width="40" alt="Git"  />
 </div>
 
 ###
