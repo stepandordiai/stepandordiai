@@ -1,5 +1,11 @@
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=stepandordiai"/>
+  Thanks for visiting! Let's create something awesome together.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=stepandordiai&show_icons=true&theme=dark" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=stepandordiai&theme=dark&hide_border=true" width="400">
+</p>
 </div>
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stepandordiai&theme=react-dark&custom_title=Stepan%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
