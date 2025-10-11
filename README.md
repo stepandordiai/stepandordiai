@@ -15,9 +15,9 @@
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stepandordiai&theme=react-dark&custom_title=Stepan%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://64.media.tumblr.com/85e28b2c1364a2084bd7a6727add810a/bf7dea713bb52297-ac/s1280x1920/0f03a27d7d10f150b8abba46376358eb72e1bd89.gifv"  />
-</div>
+</div> -->
 
 ###
 
