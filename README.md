@@ -1,8 +1,7 @@
 <div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=stepandordiai"/>
-  Thanks for visiting! Let's create something awesome together.
+<p>Thanks for visiting! Let's create something awesome together. <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=stepandordiai"/></p>
 
-<p align="center">
+  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=stepandordiai&show_icons=true&theme=dark" width="400">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=stepandordiai&theme=dark&hide_border=true" width="400">
 </p>
@@ -56,8 +55,6 @@
 </div>
 
 ###
-
-[https://github-readme-activity-graph.vercel.app/graph?username=stepandordiai]
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stepandordiai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
