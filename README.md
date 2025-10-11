@@ -7,6 +7,12 @@
 </p>
 </div>
 
+<div align="center">
+<p>LeetCode Stats</p>
+<img  src="https://leetcode-badge-sage.vercel.app/badge/stepandordiai?theme=dark">
+</div>
+
+
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stepandordiai&theme=react-dark&custom_title=Stepan%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
