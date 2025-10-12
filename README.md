@@ -1,19 +1,13 @@
 <div align="center">
 <p>Thanks for visiting! Let's create something awesome together. <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=stepandordiai"/></p>
 
-  <p align="center">
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stepandordiai&theme=react-dark&custom_title=Stepan%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=stepandordiai&show_icons=true&theme=dark" width="400">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=stepandordiai&theme=dark&hide_border=true" width="400">
 </p>
 </div>
-
-<div align="center">
-<p>LeetCode Stats</p>
-<img  src="https://leetcode-badge-sage.vercel.app/badge/stepandordiai?theme=dark">
-</div>
-
-
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stepandordiai&theme=react-dark&custom_title=Stepan%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- <div align="center">
   <img src="https://64.media.tumblr.com/85e28b2c1364a2084bd7a6727add810a/bf7dea713bb52297-ac/s1280x1920/0f03a27d7d10f150b8abba46376358eb72e1bd89.gifv"  />
@@ -64,4 +58,11 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stepandordiai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+<p>LeetCode Stats</p>
+<img  src="https://leetcode-badge-sage.vercel.app/badge/stepandordiai?theme=dark">
 </div>
