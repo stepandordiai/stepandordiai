@@ -1,5 +1,5 @@
 <div align="center">
-<p>Thanks for visiting! Let's create something awesome together. <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=stepandordiai"/></p>
+<p>Thanks for visiting! Let's create something awesome together! <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=stepandordiai"/></p>
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stepandordiai&theme=react-dark&custom_title=Stepan%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
