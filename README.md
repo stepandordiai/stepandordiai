@@ -52,6 +52,8 @@
   <h3>Other</h3>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" width="40" alt="GitHub"  />
   <img src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" width="40" alt="Git"  />
+  <p>Postman</p>
+  <p>Insomnia</p>
 </div>
 
 ###
