@@ -9,23 +9,19 @@
 </p>
 </div>
 
-<!-- <div align="center">
-  <img src="https://64.media.tumblr.com/85e28b2c1364a2084bd7a6727add810a/bf7dea713bb52297-ac/s1280x1920/0f03a27d7d10f150b8abba46376358eb72e1bd89.gifv"  />
-</div> -->
-
 ###
 
 <h1 align="center">Hi, my name is Stepan!</h1>
 
 ###
 
-<h3 align="center">About me</h3>
+<h2 align="center">About me</h2>
 
 ###
 
 <p align="justify">Self-taught Front-End Developer with 2 years of experience designing and building interactive websites and applications using React, TypeScript, and Sass. Driven by a passion for problem-solving and innovative solutions, with a strong focus on creating intuitive, user-centric projects and meticulous attention to detail.</p>
 
-<h3 align="center">Skills</h3>
+<h2 align="center">Skills</h2>
 
 ###
 
@@ -49,11 +45,13 @@
   <h3>Design</h3>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/800px-Figma-logo.svg.png" width="40" alt="Figma"  />
 
+  <h3>Tests</h3>
+   <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" width="40" alt="Postman" />
+   <img src="https://s3.amazonaws.com/s3.roaringapps.com/assets/icons/1561251841927-Insomnia.png" width="40" alt="Insomnia" />
+
   <h3>Other</h3>
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" width="40" alt="GitHub"  />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" width="40" alt="GitHub" />
   <img src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" width="40" alt="Git"  />
-  <p>Postman</p>
-  <p>Insomnia</p>
 </div>
 
 ###
