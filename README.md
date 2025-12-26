@@ -9,21 +9,13 @@
 </p>
 </div>
 
-###
-
 <h1 align="center">Hi, my name is Stepan!</h1>
 
-###
-
 <h2 align="center">About me</h2>
-
-###
 
 <p align="justify">Self-taught Front-End Developer with 2 years of experience designing and building interactive websites and applications using React, TypeScript, and Sass. Driven by a passion for problem-solving and innovative solutions, with a strong focus on creating intuitive, user-centric projects and meticulous attention to detail.</p>
 
 <h2 align="center">Skills</h2>
-
-###
 
 <div>
   <h3>Front-end</h3>
@@ -54,15 +46,11 @@
   <img src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" width="40" alt="Git"  />
 </div>
 
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stepandordiai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
 <div align="center">
 <p>LeetCode Stats</p>
-<img  src="https://leetcode-badge-sage.vercel.app/badge/stepandordiai?theme=dark">
+<img src="https://leetcode-badge-sage.vercel.app/badge/stepandordiai?theme=dark">
 </div>
