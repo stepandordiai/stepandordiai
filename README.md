@@ -13,7 +13,7 @@
 
 <h2 align="center">About me</h2>
 
-<p align="justify">Self-taught Front-End Developer with 2 years of experience designing and building interactive websites and applications using React, TypeScript, and Sass. Driven by a passion for problem-solving and innovative solutions, with a strong focus on creating intuitive, user-centric projects and meticulous attention to detail.</p>
+<p align="justify">Self-taught Front-End Developer with 2+ years of experience designing and building interactive websites and applications using React, TypeScript, and Sass. Driven by a passion for problem-solving and innovative solutions, with a strong focus on creating intuitive, user-centric projects and meticulous attention to detail.</p>
 
 <h2 align="center">Skills</h2>
 
